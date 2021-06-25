@@ -17,5 +17,13 @@ sections:
   section_id: pub-type-overview
   content: Here is where the content goes
   actions: []
+- template: section_content
+  type: section_content
+  title: Describe
+  section_id: desc
+  image_alt: overview
+  content: This is the text content section
+  image: ''
+  actions: []
 
 ---
