@@ -5,7 +5,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Stackbit Fresh",
+        "title": "Web Design",
         "tagline": "Header Tagline",
         "profile_img": "/images/avatar-1.png",
         "profile_img_alt": "Author avatar",
