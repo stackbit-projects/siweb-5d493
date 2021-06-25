@@ -11,12 +11,6 @@ layout: advanced
 title: Publication Design
 excerpt: This page explains what kinds of publication design services I provide.
 sections:
-- template: section_hero
-  type: section_hero
-  title: Overview of Publication Types
-  section_id: pub-type-overview
-  content: Here is where the content goes
-  actions: []
 - template: section_content
   type: section_content
   title: Describe
