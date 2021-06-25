@@ -19,9 +19,8 @@ sections:
     section_id: about
     content: >
       Born and raised in Texas.  Lived, worked, and studied many years in
-      California, DC, Central Europe and the Middle East. Just omni-curious I
-      suppose.  Can you blame me?  This world is just too dang interesting
-      y'all!
+      California, DC, Central Europe and the Middle East. Omni-curious about
+      most everything.  This world is too big for one lifetime y'all!
     actions:
       - type: action
         template: action
