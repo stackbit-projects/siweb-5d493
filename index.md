@@ -6,9 +6,15 @@ sections:
     template: section_hero
     title: 'Hi, I''m Si'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I have been building websites for over twenty years.  My goal as a web
+      developer, publication designer and IT consultant is to help clients
+      achieve success in their chosen field, whatever that happens to be.  My
+      approach is to start with where clients are already at and work with what
+      tools they feel most comfortable using.  Not to impose "my way" of doing
+      things, though I am happy to suggest better or easier alternatives if that
+      is desired. I have worked with hundreds of frameworks and software
+      projects and always ready to lean new ones.  Adaptability is key!
   - type: section_content
     template: section_content
     title: About
