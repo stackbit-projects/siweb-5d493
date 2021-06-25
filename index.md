@@ -7,14 +7,14 @@ sections:
     title: 'Hi, I''m Si'
     section_id: hero
     content: >
-      I have been building websites for over twenty years.  My goal as a web
-      developer, publication designer and IT consultant is to help clients
-      achieve success in their chosen field, whatever that happens to be.  My
-      approach is to start with where clients are already at and work with what
-      tools they feel most comfortable using.  Not to impose "my way" of doing
-      things, though I am happy to suggest better or easier alternatives if that
-      is desired. I have worked with hundreds of frameworks and software
-      projects and am always ready to lean new ones.  Adaptability is key!
+      I have been building websites and publications for over twenty years.  As
+      a Web / IT consultant my goal is to help clients achieve success as
+      quickly and effeciently as possible.  I encourage cllients to use the
+      tools they feel most comfortable and capable of using, as opposed to
+      imposing my framework of choice.  If alternative approaches are desired
+      then so be it.  I have worked with hundreds of frameworks and software
+      projects and am always ready to lean new ones.  I am adaptable so long as
+      it works for you!
   - type: section_content
     template: section_content
     title: About
