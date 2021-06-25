@@ -7,9 +7,9 @@ sections:
     title: 'Hi, I''m Si'
     section_id: hero
     content: >
-      I have provided website, publication, and IT suport for for numerous
+      I have provided website, publication, and IT support for for numerous
       clients over the past twenty years.  My goal has always been to achieve
-      client goals as quickly and effeciently as possible.  Over the years I
+      client goals as quickly and efficiently as possible.  Over the years I
       have gained experience with dozens of different web frameworks, design
       tools and IT services and am always learning new ones.  [Contact
       me](http://siweb.design/contact/) with your ideas and we'll get started.
