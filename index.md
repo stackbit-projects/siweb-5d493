@@ -19,9 +19,8 @@ sections:
     section_id: about
     content: >
       Born and raised in Texas.  Lived, worked, and studied many years in
-      California, DC, Central Europe and the Middle East. My resume looks like a
-      phone book y'all.  Just omni-curious I suppose.  Can you blame me?  This
-      world is just too dang interesting!
+      California, DC, Central Europe and the Middle East. Just omni-curious I
+      suppose.  Can you blame me?  This world is just too dang interesting!
     actions:
       - type: action
         template: action
