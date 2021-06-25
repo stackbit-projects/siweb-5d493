@@ -7,12 +7,11 @@ sections:
     title: 'Hi, I''m Si'
     section_id: hero
     content: >
-      I have been building websites and publications for over twenty years.  As
-      a Web / IT consultant my goal is to help clients achieve success as
-      quickly and effeciently as possible.  I also provide interactive training
-      and support for both individuals and organizations.  I have worked with
-      hundreds of clients over the years that use different frameworks and have
-      varying publication objectives.  [Contact
+      I have provided website, publication, and IT suport for for numerous
+      clients over the past twenty years.  My goal has always been to achieve
+      client goals as quickly and effeciently as possible.  Over the years I
+      have gained experience with dozens of different web frameworks, design
+      tools and IT services and am always learning new ones.  [Contact
       me](http://siweb.design/contact/) with your ideas and we'll get started.
   - type: section_content
     template: section_content
