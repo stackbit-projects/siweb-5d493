@@ -14,7 +14,7 @@ sections:
       tools they feel most comfortable using.  Not to impose "my way" of doing
       things, though I am happy to suggest better or easier alternatives if that
       is desired. I have worked with hundreds of frameworks and software
-      projects and always ready to lean new ones.  Adaptability is key!
+      projects and am always ready to lean new ones.  Adaptability is key!
   - type: section_content
     template: section_content
     title: About
