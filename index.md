@@ -17,11 +17,12 @@ sections:
     template: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Born and raised in Texas.  Lived, worked, and studied many years in
+      California, DC, Central Europe and the Middle East. My resume looks like a
+      phone book y'all.  Just omni-curious I suppose.  Can you blame me?  This
+      world is just too dang interesting.  So many people, places, and things to
+      learn!
     actions:
       - type: action
         template: action
