@@ -20,8 +20,8 @@ sections:
     content: >
       Born and raised in Texas.  Lived, worked, and studied many years in
       California, DC, Central Europe and the Middle East to mention only a few.
-      I guess I'm just omni-curious.  Can you blame me?  The world is too vast
-      for one lifetime y'all! 
+      Omni-curious about too many things.  Can you blame me?  The world is too
+      vast for one lifetime y'all!
     actions:
       - type: action
         template: action
