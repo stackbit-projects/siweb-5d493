@@ -29,7 +29,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Style Guide",
+                "label": "Web Design",
                 "url": "/style-guide/",
                 "style": "link"
             },
