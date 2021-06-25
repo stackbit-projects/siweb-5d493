@@ -15,7 +15,7 @@ sections:
       me](http://siweb.design/contact/) with your ideas and we'll get started.
   - type: section_content
     template: section_content
-    title: About
+    title: About Me
     section_id: about
     content: >
       Born and raised in Texas.  Lived, worked, and studied many years in
