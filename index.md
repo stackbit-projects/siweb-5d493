@@ -9,12 +9,11 @@ sections:
     content: >
       I have been building websites and publications for over twenty years.  As
       a Web / IT consultant my goal is to help clients achieve success as
-      quickly and effeciently as possible.  I encourage cllients to use the
-      tools they feel most comfortable and capable of using, as opposed to
-      imposing my framework of choice.  If alternative approaches are desired
-      then so be it.  I have worked with hundreds of frameworks and software
-      projects and am always ready to lean new ones.  I am adaptable so long as
-      it works for you!
+      quickly and effeciently as possible.  I also provide interactive training
+      and support for both individuals and organizations.  I have worked with
+      hundreds of clients over the years that use different frameworks and have
+      varying publication objectives.  [Contact
+      me](http://siweb.design/contact/) with your ideas and we'll get started.
   - type: section_content
     template: section_content
     title: About
