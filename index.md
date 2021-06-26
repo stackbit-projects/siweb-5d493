@@ -13,21 +13,6 @@ sections:
       have gained experience with dozens of different web frameworks, design
       tools and IT services and am always learning new ones.  [Contact
       me](http://siweb.design/contact/) with your ideas and we'll get started.
-  - type: section_content
-    template: section_content
-    title: About Me
-    section_id: about
-    content: >
-      Born and raised in Texas.  Lived, worked, and studied many years in
-      California, DC, Central Europe and the Middle East to mention only a few.
-      Omni-curious about too many things.  Can you blame me?  The world is too
-      vast for one lifetime y'all!
-    actions:
-      - type: action
-        template: action
-        label: Contact Me
-        url: /contact
-        style: button
   - type: section_posts
     template: section_posts
     title: Recent Posts
