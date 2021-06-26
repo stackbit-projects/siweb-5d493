@@ -1,6 +1,6 @@
 ---
 title: Services
-subtitle: Th
+subtitle: ThIs pa
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
